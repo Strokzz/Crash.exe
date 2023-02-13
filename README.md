@@ -1,5 +1,7 @@
 # Crash.exe
-Das ist ein Test Virus in Powershell geschrieben was aber schädlich sein kann 
+Powershell Skript made by Strokzz
+
+Das ist ein Test Virus in Powershell geschrieben.
 
 Was macht dieses Skript:
 
